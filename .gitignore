@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+.gwt
+src/main/gwt-unitCache
+src/main/webapp/WEB-INF
+src/main/webapp/socked_demo
+target
